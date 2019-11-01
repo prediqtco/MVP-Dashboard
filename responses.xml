@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ReferenceNumber>20180914-075159</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>1.13636363636364</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp c.Neither satisfied nor dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp c.Neither satisfied nor dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180914-035630</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>1.56</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp d.Somewhat dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp b.Somewhat satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-022522</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp e.Very dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp e.Very dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-023029</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp c.Neither satisfied nor dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp c.Neither satisfied nor dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-024149</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp b.Somewhat satisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp c.Neither satisfied nor dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-024716</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>false</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp d.Somewhat dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp d.Somewhat dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-025014</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp e.Very dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp a.Very satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-025014</ReferenceNumber>
+    <memberId>3</memberId>
+    <Pending>false</Pending>
+    <Approved>false</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp a.Very satisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp a.Very satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-024716</ReferenceNumber>
+    <memberId>1</memberId>
+    <Pending>false</Pending>
+    <Approved>false</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp a.Very satisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp b.Somewhat satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180915-024716</ReferenceNumber>
+    <memberId>3</memberId>
+    <Pending>false</Pending>
+    <Approved>false</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp a.Very satisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp b.Somewhat satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180916-021900</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp d.Somewhat dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp d.Somewhat dissatisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180916-063353</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>false</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp c.Neither satisfied nor dissatisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp b.Somewhat satisfied</Response2>
+  </Table1>
+  <Table1>
+    <ReferenceNumber>20180916-063404</ReferenceNumber>
+    <memberId>2</memberId>
+    <Pending>false</Pending>
+    <Approved>true</Approved>
+    <Amount>5</Amount>
+    <Question1>1. Overall, how satisfied or dissatisfied are you with our company?</Question1>
+    <Response1>&amp;nbsp a.Very satisfied</Response1>
+    <Question2>2. How satisfied or dissatisfied are you with our Service Representatives?</Question2>
+    <Response2>&amp;nbsp b.Somewhat satisfied</Response2>
+  </Table1>
+</NewDataSet>
